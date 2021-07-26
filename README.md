@@ -1,4 +1,4 @@
 # nvim
-My NeoVIM config
+My Neovim config
 
 ## init.vim
